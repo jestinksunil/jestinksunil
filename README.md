@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SIEM (Security information and event management).<br>👯 I’m looking to collaborate on cyber security projects.<br>🤝 I’m looking for help with XDR.<br>🌱 I’m currently learning cyber security and pursuing computer science.
+🔭 I’m currently working on SIEM (Security information and event management).<br>👯 I’m looking to collaborate on cyber security projects.<br>🤝 I’m looking for help with XDR.<br>🌱 I’m currently learning cyber security.
 
 
 ## 🌐 Socials:
